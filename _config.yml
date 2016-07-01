@@ -1,0 +1,28 @@
+name: ydn
+favicon: null
+layout_spectrum: 0.8524238709360361
+typography_spectrum: 0.085051363799721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4557972408365458
+  lightness: 0.012445791391655803
+  saturation: 0.34491325495764613
+  rhythmicContrast: 0.7247455331962556
+purpose: []
